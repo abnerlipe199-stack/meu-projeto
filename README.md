@@ -52,24 +52,5 @@ git push -u origin main
 ```
 
 ```
-📖 Sessão 2: A Anatomia do README Perfeito
-O código por si só não comunica todo o contexto de um sistema. O ficheiro README.md funciona como o cartão de visita e o manual de instruções oficial de qualquer projeto.
+## 📖 Sessão 2: A Anatomia do README Perfeito
 
-1. Propósito e Público-Alvo
-O que é: O ficheiro principal de documentação renderizado na raiz do repositório.
-
-Público-alvo: Recrutadores (avaliação de maturidade técnica e clareza), outros desenvolvedores (para entender arquitetura e colaborar) e utilizadores finais (para saber o que a aplicação faz e como utilizá-la).
-
-2. Os 5 Dados Fundamentais de um README Profissional
-Título e Descrição do Projeto: Apresentação clara do problema que o projeto resolve e o seu objetivo.
-
-Tecnologias Utilizadas: Lista com linguagens, frameworks, bibliotecas e bases de dados empregues.
-
-Instruções de Instalação e Execução: Comandos práticos para clonar o repositório, instalar dependências e executar o código localmente.
-
-Demonstração / Screenshots: Capturas de ecrã ou links para demonstração em funcionamento.
-
-Status do Projeto e Licença: Indicação do estado de desenvolvimento e termos de uso do código.
-
-3. O Poder do Markdown
-O Markdown (.md) é uma linguagem leve de marcação de texto que permite estruturar títulos hierárquicos, listas, tabelas e blocos de código com destaque de sintaxe, mantendo o ficheiro leve e de fácil leitura tanto em formato raw quanto renderizado no navegador.
