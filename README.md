@@ -47,6 +47,8 @@ git commit -m "docs: trabalho ciclo de vida github"
 
 git push -u origin main
 
+---
+
 📖 Sessão 2: A Anatomia do README Perfeito
 O código por si só não comunica todo o contexto de um sistema. O ficheiro README.md funciona como o cartão de visita e o manual de instruções oficial de qualquer projeto.
 
